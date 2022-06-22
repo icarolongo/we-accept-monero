@@ -1,1 +1,1 @@
-# accept-monero
+# We accept Monero
