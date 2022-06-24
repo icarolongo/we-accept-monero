@@ -4,3 +4,7 @@
 2. Brazilian Portuguese (pt-BR): Aceitamos Monero
 
 ![Thumbnail](https://github.com/icarolongo/we-accept-monero/blob/main/png/we-accept-monero.en-US.png)
+
+# Monero Accepted Here
+
+![Thumbnail](https://github.com/icarolongo/we-accept-monero/blob/main/png/monero-accepted-here.en-US.png)
